@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Outfit";
+    src: url(Outfit/Outfit-VariableFont_wght.ttf);
+}
+body {
+    font-family: "Outfit", 'Courier New', Courier, monospace;
+    background-color: #84e38f;
+    max-width: 550px;
+    margin: 0 auto;
+}
+#heading {
+    border: 2px dashed rgb(43, 68, 33);
+    background-color: #c9eac4;
+    padding: 10px;
+    color: darkgreen;
+    text-align: center;
+}
+.mainbody {
+    background-color: rgb(240, 255, 247);
+    padding: 10px;
+}
+a {
+    text-decoration: underline;
+    color: rgb(40, 64, 65);
+}
+h2 {
+    text-align: center;
+}
+img {
+    display: block;
+    margin: auto;
+}
+figcaption {
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: #84e38f;
+    text-decoration-style: dotted;
+}
